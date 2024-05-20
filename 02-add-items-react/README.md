@@ -1,5 +1,7 @@
 https://gist.github.com/brandovidal/153d30bb6f639ad26e1796bb010af8c8#ejercicio-1-a%C3%B1adir-y-eliminar-elementos-de-una-lista-react
 
+Link deploy = https://scintillating-choux-87b301.netlify.app/
+
 Ejercicio 1. Añadir y eliminar elementos de una lista (React) Requisitos: Tener instalado Nodejs (v16.x.x o superior). Tener instalado npm.
 
 Duración máxima: 40 minutos
@@ -16,3 +18,4 @@ Además, cada vez que se hace click en cualquier elemento de la lista, debe elim
 
 - [] Dar importancia a la funcionalidad y usabilidad, más que al diseño visual.
   [] El código debe ser enteramente desarrollado en Typescript.
+
